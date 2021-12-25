@@ -14,4 +14,4 @@ An age calculator that helps you finds out how old you are in years, months, day
 
 ## Author
 
-* **Mico Rayen** - *Software Developer* - [Portfolio Website](https://micorayen.github.io)
+* **Mico Rayen** - *Software Developer* - [Portfolio Website](https://micorayen.github.io/)
