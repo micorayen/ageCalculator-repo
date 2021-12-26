@@ -4,7 +4,7 @@
 
 _Age Calculator app written entirely in C#_
 
-Watch demo [here](https://www.youtube.com/watch?v=6N4KFllLkKs&vq=hd720), Please watch the video on "720p" settings.
+Watch demo [here](https://www.youtube.com/watch?v=6N4KFllLkKs&vq=hd720p60), Please watch the video on "720p" settings.
 
 <image src="https://user-images.githubusercontent.com/43229181/147377946-30451e0b-a0dc-4fe4-914d-07c6b537f83f.png">
 
